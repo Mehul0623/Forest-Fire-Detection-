@@ -4,7 +4,7 @@ A simple Convolutional Neural Network (CNN) model built using TensorFlow/Keras t
 
 ## Step 1: Clone the repo
 ```bash
-git clone https://github.com/yourusername/forest-fire-detection.git
+git clone https://github.com/Mehul0623/Forest-Fire-Detection-.git
 cd forest-fire-detection
 ````
 
